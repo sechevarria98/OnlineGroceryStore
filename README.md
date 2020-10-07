@@ -1,2 +1,3 @@
 # OnlineGroceryStore
- Database Project
+ Database Organization Project
+ Fall 2018
